@@ -47,6 +47,5 @@ Development of an ERP system for the management of a cardboard manufacturing com
 * [Spending time with my family on weekends]
 * [Listening to a variety of music]
 
-## ✨ Full Stack Course Projects
 
 
