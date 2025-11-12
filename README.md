@@ -17,6 +17,25 @@ MES (Manufacturing Execution Systems): A custom MES to control materials and pro
 ## 🚀 Implementation of Mapics and integration with specific-purpose systems: In 4 companies within the same group in 3 different countries.
 Development of an ERP system for the management of a cardboard manufacturing company.
 
+## 🚀 Full Stack Course Projects
+* [Deployment of a static website on GitHub] https://rgdavid28.github.io/EBAC_ESP13/
+	- Deploying the model of an online store on GitHub.
+
+* [Using jQuery] https://rgdavid28.github.io/EBAC_ProyectoDos/
+	- Using jQuery for front-end design and using a TV series API. 
+
+* [TypeScript] https://github.com/RGDavid28/EBAC_Practica26
+	- Using static typography (A programming language that combines the features of JavaScript).
+
+* [React] https://github.com/RGDavid28/EBAC_Practica28
+	- Using functional components in JavaScript
+
+* [Data Fetching with React] https://github.com/RGDavid28/EBAC_Practica29
+	- Retrieving data from an API or other external source in a web application created with React.
+
+*…Etc.
+
+
 ## 🔗 Connect with me
 
 * **GitHub:** {Link: @RGDavid28 https://github.com/RGDavid28}
