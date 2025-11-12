@@ -37,7 +37,7 @@ Development of an ERP system for the management of a cardboard manufacturing com
 
 ## 🚀  GitHub: Statistics, most used languages, and contributions.
 -	https://github-readme-stats.vercel.app/api?username=RGDavid28
--	https://github-readme-stats.vercel.app/api/top-langs/?username= RGDavid28
+-	https://github-readme-stats.vercel.app/api/top-langs/?username=RGDavid28
 
 ## 🔗 Connect with me
 
