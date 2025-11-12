@@ -5,7 +5,7 @@ Hi! I'm David, an IT Consultant passionate about systems and solutions developme
 I'm passionate about ERPs and their integration with digitization solutions. My focus is on integrating mission-critical solutions. I'm looking for opportunities implementing ERPs and applications to integrate information from companies' business processes.
 
 ## 🛠️ Skills
-ERPs: Mapics XA, SAP, JD-Edwards
+ERPs: Mapics XA, SAP, JD-Edwards. 
 Languages: Python, JavaScript
 Frameworks: React, Django
 Tools: Git, Docker, AWS, SQL SMS…
